@@ -4,6 +4,7 @@ Analista de Sistemas na **Empresa Nacional de Hidrocarbonetos, E.P. (ENH)**, Mo�
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anselmocossa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anselmocossa)
 [![Packagist](https://img.shields.io/badge/Packagist-plugins_Filament-F28D1A?style=flat-square&logo=packagist&logoColor=white)](https://packagist.org/users/anselmocossa/packages/)
+[![GitHub stars](https://img.shields.io/github/stars/anselmocossa?affiliations=OWNER&style=flat-square&logo=github&label=GitHub%20stars&color=24292f)](https://github.com/anselmocossa?tab=repositories&type=source&sort=stargazers)
 
 ## Áreas de actuação
 
